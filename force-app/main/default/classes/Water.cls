@@ -1,24 +1,6 @@
 public with sharing class Water {
     public Water() {
-        system.debug('water');
-        system.debug('database connection');
-        system.debug('database connection 2 change');
-        system.debug('database connection 3 change');
-        system.debug('new change bug fix branch');
-        system.debug('addddddddddd ing extra changes from vs code to test 2 commits');
-        system.debug('directly changing the file in github');
-        system.debug('copy copy test msg');
-
-        
-
-
-
-
-
-
-     system.debug('directly changing the file in github part 2 hello hello');
-     system.debug('for rebase check');
-    system.debug('adding my change ');
+        system.debug('adding chnges in github to test rebase');
 
     }
 }
